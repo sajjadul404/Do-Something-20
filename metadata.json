@@ -1,0 +1,6 @@
+{
+  "name": "FastRobox Smart Classroom",
+  "description": "Real-time smart classroom monitoring, environmental telemetry, live camera feed, and smart door access control dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
